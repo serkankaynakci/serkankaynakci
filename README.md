@@ -12,7 +12,7 @@ You can review the source codes of all my work from my Github profiles.
 
 --------------------------------
 ## 🤝🏻 Connect with Me
-| [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/serkan-kaynakçı-484548135) |
+| [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-kaynak%C3%A7%C4%B1-484548135/) |
 | [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/serkankaynakci)  |
 
 
