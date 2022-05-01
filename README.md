@@ -26,7 +26,7 @@ You can review the source codes of all my work from my Github profiles.
 </a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/dijvar?style=social)](https://www.github.com/serkankaynakci)
+[![GitHub followers](https://img.shields.io/github/followers/serkankaynakci?style=social)](https://www.github.com/serkankaynakci)
 
 --------------------------------
 
